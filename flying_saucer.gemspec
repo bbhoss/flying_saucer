@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "rspec"
 
-  s.files        = Dir.glob("{lib}/**/*") + %w(LICENSE LICENSE-LGPL-2.1.txt LICENSE-W3C-TEST README.flyingsaucer.txt README.txt)
+  s.files        = Dir.glob("{lib}/**/*") + %w(LICENSE LICENSE-LGPL-2.1.txt LICENSE-W3C-TEST README.txt)
   s.require_path = 'lib'
 end
